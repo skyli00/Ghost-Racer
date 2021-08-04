@@ -1,0 +1,6 @@
+﻿  Actor.cpp
+D:\CS 32 Projects\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\Actor.cpp(334,43): error C2248: 'StudentWorld::getSoul': cannot access protected member declared in class 'StudentWorld'
+D:\CS 32 Projects\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.h(56): message : see declaration of 'StudentWorld::getSoul'
+D:\CS 32 Projects\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.h(12): message : see declaration of 'StudentWorld'
+  StudentWorld.cpp
+  Generating Code...
